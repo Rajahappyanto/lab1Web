@@ -86,12 +86,12 @@ error ketika terjadi kesalahan penulisan tag?
 jawab : Tidak
 
 ```
-2. Apa perbedaan dari tag <p> dengan tag <br>, berikan penjelasannya!
+2. Apa perbedaan dari tag p dengan tag br, berikan penjelasannya!
 ```
 jawab : tag p diawali pembuka dan penutup sedangkan br tidak, 
 tag br memang dapat membuat paragraf baru tapi lebih di fungsikan untuk menambah bari baru dan membatu tag p karena akan sulit memberikan atribut align pada tag br
 ```
-3. Apa perbedaan atribut title dan alt pada tag <img>, berikan penjelasannya!
+3. Apa perbedaan atribut title dan alt pada tag img, berikan penjelasannya!
 ```
 jawab : alt di tujukan untuk memberikan deskripsi pd gambar sedangkan title berupa tooltip yang akan muncul saat kursor di arahkan ke gambar
 ```
